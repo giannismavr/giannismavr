@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giannismavr
 - 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... c, java
+- 🌱 I’m currently learning ... c, java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
